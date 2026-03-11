@@ -4,7 +4,7 @@
 
 ![Scrubs](Scrubs_Photo.jpg)
 
-Growing up, I was a huge fan of the show [Scrubs](https://en.wikipedia.org/wiki/Scrubs_(TV_series)). It felt very goofy and safe, but at the same time would drop these sudden emotional moment that really hit hard. I've looked around, and other fans seem to agree (see [here](https://www.reddit.com/r/Scrubs/comments/1ifrxf3/why_scrubs_hits_so_hard_its_literally_a/), [here](https://www.newsbytesapp.com/news/entertainment/what-scrubs-gets-right-about-medical-humor/story), and [here](https://cynthiaailshie.wordpress.com/2018/05/21/great-stories-scrubs/), for example). In fact, the show was even [rebooted](https://www.imdb.com/title/tt40197357/) recently, which inspired me to try out this project. 
+Growing up, I was a huge fan of the show [Scrubs](https://en.wikipedia.org/wiki/Scrubs_(TV_series)). It felt very goofy and safe, but at the same time would drop these sudden emotional moments that really hit hard. I've looked around, and other fans seem to agree (see [here](https://www.reddit.com/r/Scrubs/comments/1ifrxf3/why_scrubs_hits_so_hard_its_literally_a/), [here](https://www.newsbytesapp.com/news/entertainment/what-scrubs-gets-right-about-medical-humor/story), and [here](https://cynthiaailshie.wordpress.com/2018/05/21/great-stories-scrubs/), for example). In fact, the show was even [rebooted](https://www.imdb.com/title/tt40197357/) recently, which inspired me to try out this project. 
 
 I had two goals as part of this project. First, I wanted to see if I could get a machine learning model to accurately predict how funny and sad a given scene in Scrubs is. Second, I wanted to see if, using the predictions from a model, I could use those scene-level rating predictions to explain and predict how people felt about an episode of Scrubs on [IMDb](https://www.imdb.com/title/tt0285403/). Specifically, I was interested in exploring my belief about the importance of those emotional gut-punches, and how they work together with the show's comedic scenes to keep us hooked.
 
@@ -267,19 +267,6 @@ The `model_IMDb_episode_ratings/analysis.ipynb` notebook uses the metrics descri
 Since I only labeled 15 episodes, I just looked at correlations between the labels-derived features and IMDb variables instead of running OLS regressions. The variance in sadness feature has the strongest correlation with both the IMDb mean and the share of users who gave a perfect rating to the episode. This helps illustrate that Scrubs' peaks are driven by emotional depth and range, even if humor carries the show for most of the time. I would've expected that the change in sadness would have a stronger correlation with IMDb mean ratings and the share of perfect ratings, but thinking back on the episodes I labeled, some of the most emotional scenes lasted more than 150 words, which we define one individual scene. With that in mind, it makes sense that the variance in sadness would correlate more strongly with acclaimed episodes' ratings. IMDb rating variance and the share of 1/10 IMDb ratings are pretty correlated with one another, and neither seems to have a strong relationship with the sadness features. There is actually a measured negative correlation between the mean funny ratings and the share of 1/10 IMDb ratings, but I imagine this is due to my experience with show and preference for more niche, character-based humor. IMDb users who haven't seen the as many times might not pick up on the same jokes. Similarly, I might have undervalued some of the slapstick, shock-value type humor that was more common in the early 2000s and lost appeal with multiple watches.
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
