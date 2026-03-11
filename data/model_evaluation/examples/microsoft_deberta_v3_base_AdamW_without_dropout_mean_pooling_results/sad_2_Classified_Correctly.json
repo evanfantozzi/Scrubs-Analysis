@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "5_08",
+    "scene_id": "5_08_10",
+    "position": 0.3,
+    "prev_scene_text": "J.D.'s Narration: With Morbidity and Mortality conferences, the first question sets the tone for the whole day.\nDr. Kelso: Who the hell ate my scone?\nDr. Cox: That would be me, Bobbo, and it was delicious. My compliments to the little lady.\nDr. Kelso: I made those.\nDr. Cox: I know.\nDr. Kelso: Dorian, you admitted Mr. Foster with coughing and shortness of breath. Is that correct?\n(J.D. leans forward to his mic.)\nJ.D.: Yes.\n(The microphone doesn't work, so J.D. taps it.)\nJ.D.: Mic check, mic check.\n(J.D. leans over to Turk's microphone and taps it, then Elliot's, and finally climbs on top of the table to reach Carla's, which works.)\nJ.D.: Yes.\n(J.D. returns to his seat.)\nDr. Kelso: And then what happened?\n(J.D. moves to climb across the table again.)\nDr. Kelso: Dorian. I'm ten feet away from you. Talk.\n(J.D. sits.)",
+    "text": "J.D.: Uh, Mr. Foster had recently flown to India, where had been exposed to an outbreak of pertussis. I was going to check on his labs, but first I had to visit another patient, Mr. Sutton.\n(Flashback to elevator. J.D. exits the elevator, pushing Mr. Sutton in a wheelchair towards the Admissions Area.)\nJ.D.: So, Mr. Sutton, when you came with heartburn, I bet you thought I'd kick your butt right out of here. But not this guy. I admitted you and I stayed up all night studying your EKG because I had a hunch, and no girlfriend. But it was mostly the hunch thing. And that hunch paid off because if I hadn't found that blocked artery, you'd be dead right now.\nJ.D.'s Thoughts: And here comes the gratitude. The two words every doctor lives to hear.\n(Mr. Sutton gets up.)\nMr. Sutton: Later, dude.",
+    "true_funny": 1,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 2
+  },
+  {
+    "episode_id": "5_08",
+    "scene_id": "5_08_27",
+    "position": 0.8667,
+    "prev_scene_text": "(Cut to Dr. Cox's fantasy. Dr. Cox is in his apartment watching sports. Jordan is in a glass box with a hammer on the side labeled \"IN CASE OF SEX EMERGENCY\")\nDr. Cox: Aw, come on, you gotta make that shot.\nJordan: Let me out of here! I will kill you!\nDr. Cox: I'm watching the game.\n(Dr. Cox returns his attention to the TV until Jordan knocks on the glass and starts unbuttoning her shirt.)\nJordan: Sweetie, you wanna get naughty? Ooh..\n(She licks the glass and rubs her chest against it.)\nJordan: Oh, yeah.\n(Dr. Cox picks up the hammer, ready to break the glass, but is distracted by the TV.)\nJordan: Come on, do it. Do it.\nDr. Cox: Ah, I can wait another day. Button up and watch the game.\n(End fantasy.)\nDr. Cox: I gotta call my glass guy.",
+    "text": "(Cut to hallway. The wife changes the patient assignment board from \"Dr. Reid\" to \"Dr. Whore\".)\nElliot: Mrs. Brown, I want you to know how sorry I am for kissing your husband, but we are two women who have both been wronged and both been lied to and the healthiest thing for us to do right now is just to walk away from each other with our dignity intact.  Don't you agree?\nMrs. Brown: Do you know what I do with whores? I punch them in the face.\nElliot: Bring it, bitch.\n(Cut to hospital exterior. Elliot is duct taped to the wall, missing her shoes and has a speech bubble taped next to her reading \"HI! I'M A WHORE!\")\n(Cut to sidewalk. J.D. is sitting next to some trashcans.)\nTurk: Dude, are you really gonna sit here all day just to thank your garbageman?",
+    "true_funny": 3,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 2
+  }
+]

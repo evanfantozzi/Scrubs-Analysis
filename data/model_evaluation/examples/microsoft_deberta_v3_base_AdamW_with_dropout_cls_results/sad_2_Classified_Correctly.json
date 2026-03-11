@@ -1,0 +1,35 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_20",
+    "position": 0.3725,
+    "prev_scene_text": "He hands the chart to Ted and leaves. Ted hangs his head dejectedly. There is a flash of camera. Pan over to reveal Ben leaning against the desk, having just taken a picture of Ted while he was depressed.\nTed: Awwwwwwwwwwwwww. Let me powder my head first.\nBehind Ted, J.D. pushes an elderly patient (Mr. Taylor) in a wheelchair.\nMr. Taylor: (Fearfully) So should I be worried about the old ticker?\nJ.D.: (Reassuringly) Oh, Mr. Taylor. Let me worry about that for you. (Turns and walks to the desk)\nJ.D. Thoughts: (Screaming in a panicky voice with bugged-out eyes) Oh my God! He's gonna die!\nCox grabs Ben's arm with one hand and grabs a file off the desk with the other. He drags Ben over as J.D. approaches.",
+    "text": "Cox: Ah, Newbie. Perfect timing. (Handing the file over to J.D.) I have to run a hundred fifty dollars down to the police station 'cause Mr. Jinky the Juggler, who Jordan just has to have for Jack's birthday party, just got a DUI.\nBen: (Raises his fist in praise of Mr. Jinky with a muffled) Yeah!\nCox: Only me. Long story short, your new job is to take young Ben here by the hand and run every hematological screening test that we have.\nBen shoots his arm past Cox for J.D. to take.\nJ.D.: Dr. Cox, I can't. I'm already covering for Doug. He's on a His-and-Her Spa Day with his mom.\nCox & Ben: WHAT?!\nJ.D.: Don't ask. The point is, I'm swamped. (Moves over to Cox and Ben so Mr. Taylor is out of earshot and lowers his voice) And I'm a little worried about Mr. Taylor here.",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 2
+  },
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_40",
+    "position": 0.7647,
+    "prev_scene_text": "Elliot: (Exasperated and rushed. To Cox) So sorry to bother you Dr. Cox. But I have searched high and low (makes exaggerated motions with her arms and hands. Behind Elliot, Ben imitates a puppet marionette pulling her strings as she goes through her conversation with Cox) for Carla. And honestly, it is like she has gone poof! And like disappeared into thin air. Huh. Have you seen her?\nBen was still doing the whole marionette thing while Elliot had her back to him. Cox got the whole show and cannot help but start to laugh at the spectacle.\nCox: (Still laughing, shaking his head) No.\nElliot get suspicious, whips around to see if someone was making fun of her while her back was turned. Ben immediately stops the marionette imitation and puts on a look of innocence. She whips back to face Cox. Ben resumes the marionette routine.",
+    "text": "Cox: (Still laughing) No. I haven't seen her.\nElliot: (Scratching head) Well, if you do. Um. Page me. (She walks off. Ben, wanting to maintain the marionette joke for all it's worth, pretends like the strings are still attached and she's pulling him off the desk. He even falls off the desk onto the floor with bravado and showmanship)\nCox: (Complimenting Ben's performance) Oh, Ben. Outstanding commitment.\nBen hops back to his feet.\nBen: Thanks. So, can we go now?\nCox: Provided that gets you off my back.\nBen: (Hold up a finger) One more thing. (Turns Cox around and guides him down the halls)\nCox: (Knowing what Ben intends to do next. Grudgingly) Oh, come on.\nWith Cox leading, Ben stomps in sync behind him in a playful manner.\nMen's locker room. Ben leads Cox into the lockers, where a shower is running.\nBen: You got to forgive him.",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 2
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_31",
+    "position": 0.8571,
+    "prev_scene_text": "But, honestly, you're my brother; you can crash at my place as long as you like.\nDan: That's okay. I'll see you back home at Christmas.\nThey share an awkward hug then, without another word, split and go their own ways.\nDR. KELSO'S OFFICE\nKelso is doing some paperwork as Elliot, Carla, and Ted come in.\nDr. Kelso: [not looking up] Why are you here.\nElliot: My boyfriend is in New Zealand for six months, and if I don't moonlight, then I'm never gonna have enough money to see him.\nCarla: My wedding's costing twice as much as I thought it would, and I need the extra cash.\nLawyer: Baxter won't get out of my chair.\nDr. Kelso gives them his attention.",
+    "text": "Carla: Dr. Kelso, even though we're understaffed and underpaid, I've been working here for ten years! I mean, all day long? All I hear is \"Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla...Carla...Carla.\"\nElliot: Sir, what--wh--what Carla is saying, and not in any kind of crazy or, uh, rambling sort of way, is that we work hard here at the hospital, but it's not the only thing in our lives.\nCarla: Surely you must know what it's like to love someone so much that you'd do anything you had to.\nDr. Kelso: I'll see you two in the morning. Now get out of my office before I change my mind.\nCarla and Elliot happily leave, and Ted is about to follow until he sees Kelso pick up the phone.",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 2
+  }
+]

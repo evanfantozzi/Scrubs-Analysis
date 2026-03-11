@@ -1,0 +1,13 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_13",
+    "position": 0.2353,
+    "prev_scene_text": "Cox and Ben both smile as Ben takes the picture.\nJ.D. pauses from trying to get a rip started in the photo.\nJ.D.: Is this thing made of Teflon?\nCox and Ben laugh at J.D.'s efforts.\nBen: (To J.D.) You know something? You have slept with both of my sisters. That means you and I have something in common.\nJ.D. laughs a little, thinking this is another joke, but seeing as Ben and Cox are not bursting out laughing, it gets uncomfortable very fast.\nJ.D.: I have to get going. (He leaves, slightly disturbed)\nBen makes sure J.D. is no longer within earshot.\nBen: (To Cox) Too weird?\nCox: Nahhhhhhh!\nWhew! They were just messing with J.D.'s head after all. Ben and Cox walk through the lobby.",
+    "text": "Cox: What's weird is that it's taken my best friend so long to come and see my son. I mean, you get diagnosed with leukemia and then you disappear for two years. What is that about?\nBen: Well, it went into remission, and I wanted to see the world in all its splendor and glory.\nCox. How'd that go for you?\nThey arrive at the elevators.",
+    "true_funny": 1,
+    "true_sad": 3,
+    "predicted_funny": 2,
+    "predicted_sad": 3
+  }
+]

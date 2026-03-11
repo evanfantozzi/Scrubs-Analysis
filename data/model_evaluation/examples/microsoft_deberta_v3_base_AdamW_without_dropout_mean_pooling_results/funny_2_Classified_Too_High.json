@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_1",
+    "position": 0.0,
+    "prev_scene_text": "",
+    "text": "Scrubs\nepisode\nMy Screw Up\nOpening \u2014 Sacred Heart, Doctors' Lounge: J.D., Turk, and Elliot are sitting. J.D. has Elliot's bare right foot in his hands and is scratching it. Turk looks on, sitting next to J.D. but not participating.\nJ.D. Thoughts: As a doctor, there are certain procedures you just have a gift for.\nElliot: Oh. That feels so good. Right there. Yeah.\nJD finishes and lets go of her right foot.\nJ.D.: Let's have the other foot.\nElliot reacts as though scalded and bolts upright in her chair.\nElliot: NO!\nTurk and J.D. startle at her reaction and then look at her oddly.\nElliot: Um. Um. It's just that there is something wrong with my left foot. You guys would think it's really disgusting.\nTurk and J.D. scoff like they've seen it all and nothing could disgust them.\nTurk: Elliot. I'm a surgeon. I cut people open.",
+    "true_funny": 2,
+    "true_sad": 1,
+    "predicted_funny": 3,
+    "predicted_sad": 1
+  },
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_39",
+    "position": 0.7451,
+    "prev_scene_text": "Ben: (Mocking in semi-ominous, mostly goofy voice) If I'm not here, people die.\nCox: (Cracks up laughing at the impression) Come on!\nBen: (Hops up to sit on the desk at the nurses' station) Listen, why don't you just let me take this little mental breakdown of yours. (Pretends to pluck something off the top of Cox's head) I'm going to put it right here in my pocket. (Stuffs imaginary mental problem in his shirt pocket) And that way, you can piss off for the afternoon, and you can let one of the 9,000 other doctors around here take care of things for you.\nCox: So you haven't noticed that my supporting cast in this theater of hell is a veritable who's who of incompetent puppets.\nElliot rushes up to stand between Cox and Ben. She addresses Cox.",
+    "text": "Elliot: (Exasperated and rushed. To Cox) So sorry to bother you Dr. Cox. But I have searched high and low (makes exaggerated motions with her arms and hands. Behind Elliot, Ben imitates a puppet marionette pulling her strings as she goes through her conversation with Cox) for Carla. And honestly, it is like she has gone poof! And like disappeared into thin air. Huh. Have you seen her?\nBen was still doing the whole marionette thing while Elliot had her back to him. Cox got the whole show and cannot help but start to laugh at the spectacle.\nCox: (Still laughing, shaking his head) No.\nElliot get suspicious, whips around to see if someone was making fun of her while her back was turned. Ben immediately stops the marionette imitation and puts on a look of innocence. She whips back to face Cox. Ben resumes the marionette routine.",
+    "true_funny": 2,
+    "true_sad": 1,
+    "predicted_funny": 3,
+    "predicted_sad": 1
+  }
+]

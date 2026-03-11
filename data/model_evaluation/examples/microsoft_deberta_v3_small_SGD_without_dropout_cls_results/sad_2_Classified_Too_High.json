@@ -1,0 +1,35 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_20",
+    "position": 0.3725,
+    "prev_scene_text": "He hands the chart to Ted and leaves. Ted hangs his head dejectedly. There is a flash of camera. Pan over to reveal Ben leaning against the desk, having just taken a picture of Ted while he was depressed.\nTed: Awwwwwwwwwwwwww. Let me powder my head first.\nBehind Ted, J.D. pushes an elderly patient (Mr. Taylor) in a wheelchair.\nMr. Taylor: (Fearfully) So should I be worried about the old ticker?\nJ.D.: (Reassuringly) Oh, Mr. Taylor. Let me worry about that for you. (Turns and walks to the desk)\nJ.D. Thoughts: (Screaming in a panicky voice with bugged-out eyes) Oh my God! He's gonna die!\nCox grabs Ben's arm with one hand and grabs a file off the desk with the other. He drags Ben over as J.D. approaches.",
+    "text": "Cox: Ah, Newbie. Perfect timing. (Handing the file over to J.D.) I have to run a hundred fifty dollars down to the police station 'cause Mr. Jinky the Juggler, who Jordan just has to have for Jack's birthday party, just got a DUI.\nBen: (Raises his fist in praise of Mr. Jinky with a muffled) Yeah!\nCox: Only me. Long story short, your new job is to take young Ben here by the hand and run every hematological screening test that we have.\nBen shoots his arm past Cox for J.D. to take.\nJ.D.: Dr. Cox, I can't. I'm already covering for Doug. He's on a His-and-Her Spa Day with his mom.\nCox & Ben: WHAT?!\nJ.D.: Don't ask. The point is, I'm swamped. (Moves over to Cox and Ben so Mr. Taylor is out of earshot and lowers his voice) And I'm a little worried about Mr. Taylor here.",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 3
+  },
+  {
+    "episode_id": "5_08",
+    "scene_id": "5_08_25",
+    "position": 0.8,
+    "prev_scene_text": "(Turk crashes through the window and lands in a heap.)\nMr. Sutton: There *is* a door.\nJ.D.: You OK? Did you try and escape?\nTurk: I did escape. There was one waiting in the car.\nJ.D.: Oh.\nMr. Sutton: That's Leon. Loves car rides. Likes to stick his head out the window and I tell him it's a little too dangerous, but he doesn't listen to me.\nJ.D.: Mr. Sutton, I cured you and you never thanked me.\nMr. Sutton: Why would I thank you for doing your job? I'm a garbageman. How many times a day do you think I get thanked?\nTurk: Six.\nMr. Sutton: You're off by about six.\nTurk: Twelve!\nMr. Sutton: I'm starting to see why Leon outfoxed you.\nTurk: Stupid bird stole my hat.",
+    "text": "J.D.: I just don't see why it's such a big deal for you to say, \"hey, doc...\" Why did he just walk away like that?\n(Leon enters wearing Turk's red hat.)\nTurk: Uhh..\nJ.D.: Ruh-roh.\nTurk: Don't move.\nJ.D.: I do admit, he looks pretty phat in your Kango.\n(Cut to Nurses' Station)\nCarla: Hey, everybody, they're about to pick the lottery numbers. And remember that when we win, we win as a family.\nJanitor: I set aside twenty tickets just for you and I to split.\nCarla: Perfect.\nKeith: Nurse Espinosa. Mr. Foster's cough is getting worse and Dr. Dorian's gone. Dr. Reid's covering, but she's sort of indisposed.\nCarla: Kid, I'm about to become a millionaire. Call Dr. Turk, he's the surgeon on call.\n[to Dr. Cox]\nYou're missing out. I bet there's plenty of things you could do with a hundred million dollars.",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 3
+  },
+  {
+    "episode_id": "5_08",
+    "scene_id": "5_08_27",
+    "position": 0.8667,
+    "prev_scene_text": "(Cut to Dr. Cox's fantasy. Dr. Cox is in his apartment watching sports. Jordan is in a glass box with a hammer on the side labeled \"IN CASE OF SEX EMERGENCY\")\nDr. Cox: Aw, come on, you gotta make that shot.\nJordan: Let me out of here! I will kill you!\nDr. Cox: I'm watching the game.\n(Dr. Cox returns his attention to the TV until Jordan knocks on the glass and starts unbuttoning her shirt.)\nJordan: Sweetie, you wanna get naughty? Ooh..\n(She licks the glass and rubs her chest against it.)\nJordan: Oh, yeah.\n(Dr. Cox picks up the hammer, ready to break the glass, but is distracted by the TV.)\nJordan: Come on, do it. Do it.\nDr. Cox: Ah, I can wait another day. Button up and watch the game.\n(End fantasy.)\nDr. Cox: I gotta call my glass guy.",
+    "text": "(Cut to hallway. The wife changes the patient assignment board from \"Dr. Reid\" to \"Dr. Whore\".)\nElliot: Mrs. Brown, I want you to know how sorry I am for kissing your husband, but we are two women who have both been wronged and both been lied to and the healthiest thing for us to do right now is just to walk away from each other with our dignity intact.  Don't you agree?\nMrs. Brown: Do you know what I do with whores? I punch them in the face.\nElliot: Bring it, bitch.\n(Cut to hospital exterior. Elliot is duct taped to the wall, missing her shoes and has a speech bubble taped next to her reading \"HI! I'M A WHORE!\")\n(Cut to sidewalk. J.D. is sitting next to some trashcans.)\nTurk: Dude, are you really gonna sit here all day just to thank your garbageman?",
+    "true_funny": 3,
+    "true_sad": 2,
+    "predicted_funny": 1,
+    "predicted_sad": 3
+  }
+]

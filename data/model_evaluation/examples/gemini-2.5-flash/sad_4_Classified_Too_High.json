@@ -1,0 +1,35 @@
+[
+  {
+    "episode_id": "5_20",
+    "scene_id": "5_20_29",
+    "position": 0.9032,
+    "prev_scene_text": "Todd: That was a very special time for me.\nElliot: Ohh.\nCarla: Unbelievable.\nElliot: He saw the girls.\n(Carla and Elliot exit. Todd watches them leave.)\nTodd: Oh, it's cool if you want to walk away, ladies, 'cuz I love to watch you go.\n(Elliot and Carla try to cover their butts with their hands.)\nTodd: Nothing wrong with those.\n(Todd walks down the hall. A male orderly walks by.)\nTodd: Nothing wrong with that either.\n(A nurse passes by.)\nTodd: Or that.\n(Another male orderly passes by.)\nTodd: Or that. Phew.\n(The Janitor stops Todd.)\nJanitor: What the hell are you?\nTodd: I'm the Todd.\n(Todd exits. Cut to ICU. Elliot, J.D. Dr. Cox and some nurses and interns stand by Mrs. Sikes' bed as the nurses disconnect life support equipment.)",
+    "text": "J.D.'s Narration: We did everything we could over the next few days to keep the transplant patients going, but odds were against us.\n(Dr. Cox covers Mrs. Sikes with a sheet.)\nJ.D.'s Narration: First we lost Mrs. Sikes...\n(Cut to Mr. Dennison's bed. Turk switches off a heart monitor and begins removing the electrodes.)\nJ.D.'s Narration: ...And then Mr. Dennison.\n(Cut to doctor's lounge. Dr. Cox looks depressed.)\nJ.D.'s Narration: And I knew that Dr. Cox needed me the exact same way I needed him earlier.\n(J.D. enters with a paper bag.)\nJ.D.: Hey. Hungry?\nDr. Cox: No.\nJ.D.: I guess that lunch was kind of a one-time thing, huh?\n(J.D. sits next to Dr. Cox.)",
+    "true_funny": 1,
+    "true_sad": 4,
+    "predicted_funny": 1,
+    "predicted_sad": 5
+  },
+  {
+    "episode_id": "5_08",
+    "scene_id": "5_08_31",
+    "position": 1.0,
+    "prev_scene_text": "(Doug hands the lab results to Dr. Kelso, who examines them.)\nDr. Kelso: Working from an inaccurate report, there was nothing any of you could have done to prevent Mr. Foster from passing. Which, I guess, leads us to you, Dr. Flannery.\n(Zoom in on a surprised Dr. Flannery, sitting in the audience.)\nJ.D.'s Narration: After a day like today, there's only one thing you could do.\n(Cut to the bar. Carla, J.D., Elliot and Turk sit at a table and raise their mugs in a toast.)\nJ.D.: To bad radiologists!\n(Dr. Cox enters.)\nDr. Cox: Wait, wait, let me get in on this. Let's also have a toast to Mr. Foster's widow and his fatherless kids.\n(Dr. Cox raises his bottle and drinks.)\nElliot: Dr. Cox, it wasn't our fault.",
+    "text": "Dr. Cox: Oh. Because you were lucky. You know as well as I do that it could have been any one of your faults. Congrats again. Have a uh, have a swell party.\n(Dr. Cox exits.)\nJ.D.'s Narration: It's never easy when someone accuses you of screwing up. Especially when you know it's true.\n(Cut to ICU.)\nJ.D.'s Narration: And when that happens, you can't shrug it off. Because the best way to learn from your mistakes is to carry them with you.\n(J.D., Elliot, Carla and Turk go about their jobs in the ICU, with a ghost of Mr. Foster following each of them.)\nCLOSING THEME\nScrubs\nMy Big Bird",
+    "true_funny": 1,
+    "true_sad": 4,
+    "predicted_funny": 2,
+    "predicted_sad": 5
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_34",
+    "position": 0.9429,
+    "prev_scene_text": "Dr. Cox: Oh, here I'd been told you left. It made me happy.\nDan: Yeah, you don't like me. People don't like me. You know why? I'm a [does air quotes] screw-up; [more air quotes] always have been. [chuckles] For instance, when we were kids, Mom would always make me walk Johnny to school first day every year. Every year, I'd walk him to the wrong school! [laughing] Just 'cause!\nDr. Cox: Boy, that's a great story, really. And I'm sure you were just a horrible big brother--\nDan: Well...\nDr. Cox: --but I'm afraid you have me confused with somebody who gives a crap. And it's okay, you don't need to be embarrassed, turns out it happens all the time. For instance, my father actually made the same mistake on his death bed.",
+    "text": "Dan: Hey, listen, Dr. Cox: No offense, I'm a big fan of the tough-guy act, but let me tell you what I really think. I think you love the fact that these kids idolize you. Johnny does! Johnny was always the one in the family we knew was going someplace -- sweet kid, smart kid. Becoming a doctor, this is all he ever wanted; and yet, somehow, you've found a way to beat that out of him, haven't you? Turned him into some cynical guy who seems to despise what he does.\nDr. Cox, Johnny's never gonna look up to me. Ever. But he hangs on your every word. So, I'm askin' -- I'm telling you -- take that responsibility seriously; stop being such a hard-ass, otherwise you're gonna have to answer to me.\nJ.D.'s Narration: Love can give you strength you never knew you had.",
+    "true_funny": 1,
+    "true_sad": 4,
+    "predicted_funny": 0,
+    "predicted_sad": 5
+  }
+]

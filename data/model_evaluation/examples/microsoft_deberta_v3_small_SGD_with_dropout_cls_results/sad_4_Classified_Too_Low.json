@@ -1,0 +1,57 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_26",
+    "position": 0.4902,
+    "prev_scene_text": "Carla: (Failing to get the hint) See, it's just that I told Turk I didn't like his mole, and I feel guilty now.\nKelso hangs his head in exasperation.\nKelso: You've seen it, you can't avoid it.\nLobby. Cox enters rubbing his hands together and comes up to the desk. Ted is there and looks up as Cox approaches.\nTed: Dr. Cox. Ah. I'm afraid my band lost a member. So we're not going to be able to perform at your son's party.\nCox: Ted. Now, even though I never asked you to, that is still just ter-rific news. (Gives an evil thumbs up)\nTed: That hurt here, (Points to head) and here. (Points to heart)\nTed leaves as J.D. comes up behind Cox. J.D.'s mood is solemn and serious.\nJ.D.: Dr. Cox.",
+    "text": "Cox: (Picks up a chart from the desk and turns to face J.D.) What's the matter with you there, Sheila? You look like Maybelline just went belly up.\nJ.D.: Twenty minutes after you left, he went into cardiac arrest. (Cox looks shocked) We tried to resuscitate him, but there was nothing we could do. (Ben enters from behind Cox and peers over his shoulder at the chart he is now flipping through) I'm sorry. (He backs away and leaves)\nBen: Whoa, man. Bummer.\nCox: (Going through chart furiously. Disbelief) This shouldn't have happened.\nJ.D. Thoughts: Guilt's a funny thing. It can lead to denial.\nCox: Kid screwed up.\nBen: (Defending J.D.) No, he didn't. He told you he has way too many patients, he's swamped.\nCox turns to face Ben.\nCox: (Serious) The kid screwed up.",
+    "true_funny": 1,
+    "true_sad": 4,
+    "predicted_funny": 2,
+    "predicted_sad": 1
+  },
+  {
+    "episode_id": "5_08",
+    "scene_id": "5_08_29",
+    "position": 0.9333,
+    "prev_scene_text": "J.D.: Yes! Jabbar'e has been added to the hug schedule. You want to wait with me?\nTurk: I can't, I was supposed to be on call five minutes ago.\n(Turk exits.)\nJ.D.'s Narration: This whole experience got me thinking about the nature of gratitude. I guess in the end...\n(Cut to auditorium.)\nJ.D.: ...whether you're a doctor or a garbageman...\nDr. Kelso:\n[interrupting]\nDorian. What are you doing?\nJ.D.: Sorry, sir, uh, um, sometimes I like to just sum things up.\nDr. Kelso: Well, allow me to do that for you. In the end, when Mr. Foster started coughing up blood...\n(Cut to Turk, stuck in traffic.)\nDr. Kelso's Voiceover: ...the on-call surgeon was stuck in traffic...\n(Cut to doctor's lounge. The nurses are watching the lottery drawing.)\nDr. Kelso's Voiceover: ...the nursing staff was busy losing the lottery...\n(Cut to J.D. hugging the garbageman.)",
+    "text": "Dr. Kelso's Voiceover: ...his original doctor was thanking a garbageman...\n(Cut to Elliot, still taped to the wall.)\nDr. Kelso's Voiceover: ...and the covering physician was incapacitated.\n(Cut to Mr. Foster's room. Keith and other interns are attempting to resuscitate Mr. Foster.)\nDr. Kelso: And what was Mr. Foster doing? He was dying in the hands of the interns.\n(Cut back to auditorium.)\nDr. Kelso: How did I do, Dr. Dorian?\n(Carla, Turk, J.D., and Elliot sit in ashamed silence. Doug enters.)\nDoug: Sorry I'm late. I got the keys to my Miata stuck in the cadaver.\nDr. Cox: Cut to the chase there, Pee Pants.\nDoug: Uh, Mr. Foster's death was the result of a pulmonary embolism, probably caused by the 21 hour flight he was on from India. But Dr. Flannery, the radiologist should have caught it on the scan.",
+    "true_funny": 1,
+    "true_sad": 4,
+    "predicted_funny": 1,
+    "predicted_sad": 1
+  },
+  {
+    "episode_id": "5_08",
+    "scene_id": "5_08_31",
+    "position": 1.0,
+    "prev_scene_text": "(Doug hands the lab results to Dr. Kelso, who examines them.)\nDr. Kelso: Working from an inaccurate report, there was nothing any of you could have done to prevent Mr. Foster from passing. Which, I guess, leads us to you, Dr. Flannery.\n(Zoom in on a surprised Dr. Flannery, sitting in the audience.)\nJ.D.'s Narration: After a day like today, there's only one thing you could do.\n(Cut to the bar. Carla, J.D., Elliot and Turk sit at a table and raise their mugs in a toast.)\nJ.D.: To bad radiologists!\n(Dr. Cox enters.)\nDr. Cox: Wait, wait, let me get in on this. Let's also have a toast to Mr. Foster's widow and his fatherless kids.\n(Dr. Cox raises his bottle and drinks.)\nElliot: Dr. Cox, it wasn't our fault.",
+    "text": "Dr. Cox: Oh. Because you were lucky. You know as well as I do that it could have been any one of your faults. Congrats again. Have a uh, have a swell party.\n(Dr. Cox exits.)\nJ.D.'s Narration: It's never easy when someone accuses you of screwing up. Especially when you know it's true.\n(Cut to ICU.)\nJ.D.'s Narration: And when that happens, you can't shrug it off. Because the best way to learn from your mistakes is to carry them with you.\n(J.D., Elliot, Carla and Turk go about their jobs in the ICU, with a ghost of Mr. Foster following each of them.)\nCLOSING THEME\nScrubs\nMy Big Bird",
+    "true_funny": 1,
+    "true_sad": 4,
+    "predicted_funny": 3,
+    "predicted_sad": 1
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_34",
+    "position": 0.9429,
+    "prev_scene_text": "Dr. Cox: Oh, here I'd been told you left. It made me happy.\nDan: Yeah, you don't like me. People don't like me. You know why? I'm a [does air quotes] screw-up; [more air quotes] always have been. [chuckles] For instance, when we were kids, Mom would always make me walk Johnny to school first day every year. Every year, I'd walk him to the wrong school! [laughing] Just 'cause!\nDr. Cox: Boy, that's a great story, really. And I'm sure you were just a horrible big brother--\nDan: Well...\nDr. Cox: --but I'm afraid you have me confused with somebody who gives a crap. And it's okay, you don't need to be embarrassed, turns out it happens all the time. For instance, my father actually made the same mistake on his death bed.",
+    "text": "Dan: Hey, listen, Dr. Cox: No offense, I'm a big fan of the tough-guy act, but let me tell you what I really think. I think you love the fact that these kids idolize you. Johnny does! Johnny was always the one in the family we knew was going someplace -- sweet kid, smart kid. Becoming a doctor, this is all he ever wanted; and yet, somehow, you've found a way to beat that out of him, haven't you? Turned him into some cynical guy who seems to despise what he does.\nDr. Cox, Johnny's never gonna look up to me. Ever. But he hangs on your every word. So, I'm askin' -- I'm telling you -- take that responsibility seriously; stop being such a hard-ass, otherwise you're gonna have to answer to me.\nJ.D.'s Narration: Love can give you strength you never knew you had.",
+    "true_funny": 1,
+    "true_sad": 4,
+    "predicted_funny": 2,
+    "predicted_sad": 1
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_36",
+    "position": 1.0,
+    "prev_scene_text": "Dan: It was good seeing you, Dr. Cox.\nHe holds out his hand.\nCox, most sincere, shakes it, sealing their deal.\nDr. Cox: Good to see you, Dan. All the best.\nDr. Cox continues out to his car.\nDan finally exhales.\nJ.D.'s Narration: Love can also give you courage.\nMeanwhile...\nVET CLINIC\nCarla is treating a cat as Elliot comes in.\nElliot: Lots of cats today! Heh! What's wrong with this guy?\nCarla: I think he's got something stuck behind his big, sharp tooth.\nThe cat hisses menacingly, but Elliot takes a calming breath and approaches it.\nJ.D.'s Narration: As for me, it's enough just to love my brother, even though I know he'll never come up big for me.\nCut to...\nHOSPITAL HALL -- NEXT DAY\nJ.D. wheels Mr. Bober through. Dr. Cox catches up with him.\nDr. Cox: Well, Mr. Pickles, welcome back.",
+    "text": "J.D.: Here we go with this guy again.\nDr. Cox: Yep. Still, it sure is nice to be doing something you love. I wouldn't trade it. How 'bout you?\nJ.D.: No....\nDr. Cox: Don't forget that.\nMr. Bober: Pickles.\nDr. Cox: Damn right, sir. [chuckles] Damn right.\nScrubs\nMy Brother, Where Art Thou?",
+    "true_funny": 1,
+    "true_sad": 4,
+    "predicted_funny": 2,
+    "predicted_sad": 1
+  }
+]

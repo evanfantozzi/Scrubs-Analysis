@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_42",
+    "position": 0.8039,
+    "prev_scene_text": "At this moment, J.D. steps out of the shower wearing a towel. He drops the towel, revealing he is wearing a pair of shorts underneath. Cox and Ben look at him, puzzled.\nJ.D.: (Looks up) What? They're my shower shorts.\nLobby: Elliot and the Janitor are walking. She convinced the Janitor to help her track down Carla.\nElliot: Thanks again for helping me look for Carla.\nJanitor: No problem. I'll check the dumpster.\nElliot: (Corrects) Ah, we're not looking for dead Carla.\nJanitor: That-a-girl. You stay optimistic.\nThey walk past a supply closet where Carla is, but they do not notice her and continue walking.\nSupply closet. Kelso enters, not having seen Carla. Awkward silence as they realize the other's presence.\nCarla: Ahem. Sorry, sir. It's been an emotional couple of days.",
+    "text": "Kelso: I'm just here to, ah, (looks around the shelves and racks) get a nasal speculum. (Finds device on the shelf next to him and starts to walk out)\nCarla: (Makes another attempt to get Kelso's ear) I just wish I didn't hate that mole so much.",
+    "true_funny": 1,
+    "true_sad": 2,
+    "predicted_funny": 1,
+    "predicted_sad": 2
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_25",
+    "position": 0.6857,
+    "prev_scene_text": "Elliot: Look, Carla, I cannot afford to be suspended right now. I'm gonna have to resort to blackmail.\nCarla: How are we gonna blackmail Kelso?\nElliot: No, no, no, no, no! Unless you take the fall for both of us, I'm telling Turk you're sleeping with someone.\nCarla: Relax, Elliot. I have a secret weapon!\nShe opens the door of...\nLEGAL COUNSEL OFFICE\nTed the Lawyer is busy primping in a mirror, a huge black wig on his head. When he sees the girls, he whips it off his head.\nLawyer: You saw nothing!\nHe guiltily ditches his comb.\nPARKING LOT -- BASKETBALL HOOP\nJ.D. and Turk are gonna squeeze in some one-on-one before work. J.D. hits the \"court\" in a 'do-rag and a black, sleeveless tee that reads \"Black By Popular Demand\".",
+    "text": "J.D.: Hey, thanks for loaning me this shirt, man. I got a lot of compliments from the sistas. Sharon the security guard even called me a cracka!\nTurk: Dude, how many time I gotta tell you? Cracker -- bad!\nBesides, why aren't you at home, apologizing to your brother before he takes off?\nJ.D.: Turk, you don't get it, man. Your family was there for you.",
+    "true_funny": 4,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 2
+  }
+]

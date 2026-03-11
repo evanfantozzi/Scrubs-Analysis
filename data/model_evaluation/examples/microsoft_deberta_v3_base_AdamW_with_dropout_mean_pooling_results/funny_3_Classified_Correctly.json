@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_19",
+    "position": 0.5143,
+    "prev_scene_text": "J.D.: Well, I'm sorry, dude, I don't--I don't have time for pickles right now. I got three vegetables and a drug addict who's gonna tell me this time things'll be different, then try to take my watch again.\nHe notices his bare wrist.\nJ.D.: Dammit!\n[to Cox] Can't we just, you know, put a pillow over his head and put him out of his misery?\nDr. Cox: Not gonna be necessary, seeing as how his temperature is below a hundred. Take him away.\nJ.D. leaves the paperwork to Cox and wheels Mr. Bober out.\nDan: So, Dr. Cox, how long has my little brother had the desire to smother old people? I feel I should warn Grandma.\nHe follows Dr. Cox down the hall.\nDr. Cox: Gonna sound a little dark, but in all fairness you gotta deal with this place any way you can.",
+    "text": "Dan: Dude, these are living, breathing people we're talking about here.\nCox stops.\nDr. Cox: I'm s--I'm s--I'm sorry, I'm sorry, what do you do?\nDan: I tend bar.\nDr. Cox: Well, I'll tell you what, there, Dan: I'm gonna go ahead and worry about how we do things around here. But if I ever do need to find out how to make a top-notch rum and coke, well, by gum, mister, you had better be by the phone, cause I just might give you a jingle.\nHe continues down the hall...\nDr. Cox: [pretend phone call] Ba-ha-rrrri-hing! Hi, Dan? Coxaronie. Regarding the rum and coke issue -- couldn't be more confused!\nVET CLINIC -- EXAM ROOM\nCarla is helping Elliot assimilate.\nCarla: Okay, we have another dog coming in. Do you want him or the four cats next door?",
+    "true_funny": 3,
+    "true_sad": 1,
+    "predicted_funny": 3,
+    "predicted_sad": 1
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_32",
+    "position": 0.8857,
+    "prev_scene_text": "Carla: Dr. Kelso, even though we're understaffed and underpaid, I've been working here for ten years! I mean, all day long? All I hear is \"Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla...Carla...Carla.\"\nElliot: Sir, what--wh--what Carla is saying, and not in any kind of crazy or, uh, rambling sort of way, is that we work hard here at the hospital, but it's not the only thing in our lives.\nCarla: Surely you must know what it's like to love someone so much that you'd do anything you had to.\nDr. Kelso: I'll see you two in the morning. Now get out of my office before I change my mind.\nCarla and Elliot happily leave, and Ted is about to follow until he sees Kelso pick up the phone.",
+    "text": "Dr. Kelso: [into phone] Darling, I wanna say something. For the past 25 years, we've been going through the motions -- once every couple of weeks we have sex, and then we have breakfast without saying a word. Well, tonight, I want you to put on a nice dress, because I'm gonna take you to dinner and I'm gonna start telling you all the things I haven't taken the time to say all these years. ... I love you, too.\nHe hangs up.\nLawyer: That was...beautiful, sir!\nDr. Kelso: Thanks, Ted. Call my wife, tell her I won't be home tonight.\nHe gets up from his desk and leaves.\nHOSPITAL -- EXTERIOR, EVENING\nDr. Cox exits the hospital, ready to go home.\nDan, who'd been waiting just outside the door, catches up with him.\nDan: Hey, Dr. Cox.",
+    "true_funny": 3,
+    "true_sad": 1,
+    "predicted_funny": 3,
+    "predicted_sad": 1
+  }
+]

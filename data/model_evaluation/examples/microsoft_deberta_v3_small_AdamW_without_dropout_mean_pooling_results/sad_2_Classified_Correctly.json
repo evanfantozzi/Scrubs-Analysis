@@ -1,0 +1,13 @@
+[
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_33",
+    "position": 0.9143,
+    "prev_scene_text": "Dr. Kelso: [into phone] Darling, I wanna say something. For the past 25 years, we've been going through the motions -- once every couple of weeks we have sex, and then we have breakfast without saying a word. Well, tonight, I want you to put on a nice dress, because I'm gonna take you to dinner and I'm gonna start telling you all the things I haven't taken the time to say all these years. ... I love you, too.\nHe hangs up.\nLawyer: That was...beautiful, sir!\nDr. Kelso: Thanks, Ted. Call my wife, tell her I won't be home tonight.\nHe gets up from his desk and leaves.\nHOSPITAL -- EXTERIOR, EVENING\nDr. Cox exits the hospital, ready to go home.\nDan, who'd been waiting just outside the door, catches up with him.\nDan: Hey, Dr. Cox.",
+    "text": "Dr. Cox: Oh, here I'd been told you left. It made me happy.\nDan: Yeah, you don't like me. People don't like me. You know why? I'm a [does air quotes] screw-up; [more air quotes] always have been. [chuckles] For instance, when we were kids, Mom would always make me walk Johnny to school first day every year. Every year, I'd walk him to the wrong school! [laughing] Just 'cause!\nDr. Cox: Boy, that's a great story, really. And I'm sure you were just a horrible big brother--\nDan: Well...\nDr. Cox: --but I'm afraid you have me confused with somebody who gives a crap. And it's okay, you don't need to be embarrassed, turns out it happens all the time. For instance, my father actually made the same mistake on his death bed.",
+    "true_funny": 1,
+    "true_sad": 2,
+    "predicted_funny": 1,
+    "predicted_sad": 2
+  }
+]

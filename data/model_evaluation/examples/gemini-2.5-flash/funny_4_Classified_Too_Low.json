@@ -1,0 +1,13 @@
+[
+  {
+    "episode_id": "4_07",
+    "scene_id": "4_07_2",
+    "position": 0.037,
+    "prev_scene_text": "Scrubs\nepisode\nMy Common Enemy\nTURK & J.D. & CARLA'S APARTMENT\nThe gang are playing Operation.\nJ.D.: Dammit! Brain Freeze is too hard. I knew I should've gone for Funny Bone.\nTurk: Step aside! Ahh!\nJ.D.'s Narration: One thing I've learned is to never play Operation against a surgeon for money.\nTurk: Eight seconds! Is that a new record, baby?\nCarla: That depends, what are we talking about?\nJ.D.: Ah-haa! Ha-haaa! Let's play again.\nTurk: No.\nJ.D.: Oh, come on, if you do, I promise that every time I hit the buzzer I'll act like I'm getting electrocuted, like this:\nHe shakes violently and Carla laughs.\nTurk: That's awesome, but no. My blood sugar's a little low.\nCarla: You want a cookie?\nJ.D.'s Narration: Turk's blood sugar was low because he has Type II diabetes and hasn't figured out his medication yet.\nJ.D.: Mmmmm, Mulattos.\nCarla: They're Milanos, you idiot.",
+    "text": "J.D.: I always thought that was a little bigoted for a cookie.\nCut to...\nBAR -- LATER\nJ.D.'s Narration: Cookie racism aside, I had bigger problems. It had been three weeks since our dad died, and my brother Dan was still staying with me.\nDan: Boy, nothing like a little time off to remind you how hard you been working, huh?\nJ.D.: You bar tend three shifts a week.\nDan: Two. They dropped me one for doinking the Jell-o shot girl. Hey!\nElliot: Hey! Sorry I'm late.\nShe gives Dan a peck on the cheek with a \"mwah.\"\nJ.D.'s Narration: Since I had dumped Elliot and broke her heart, she couldn't really be there for me. But thankfully she was there for my brother.\nElliot: You doing okay?\nDan: I am now. You know, without Elliot, I never woulda gotten through my dad's death.\nJ.D.: Our dad's death.",
+    "true_funny": 4,
+    "true_sad": 2,
+    "predicted_funny": 3,
+    "predicted_sad": 4
+  }
+]

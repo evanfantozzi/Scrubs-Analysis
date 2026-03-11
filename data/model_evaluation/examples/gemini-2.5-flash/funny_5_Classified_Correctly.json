@@ -1,0 +1,13 @@
+[
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_28",
+    "position": 0.7714,
+    "prev_scene_text": "He throws the ball at J.D., who absent-mindedly tosses it through the basket from way down court. Must be the outfit.\nJ.D.: One-nothing.\nLEGAL COUNSEL OFFICE\nElliot and Carla wait as Ted returns his wig to its foam wig-stand.\nLawyer: You're home now.\nHe walks behind his desk.\nCarla: Okay, I paged Dr. Kelso.\nDo you feel confident about this, Ted?\nLawyer: I'm not sure. I don't know what confidence feels like.\nKelso enters.\nDr. Kelso: Good afternoon, suspendees, Ted.\nGuess who's back from the vet! One, two, three!\nDr. Kelso's dog follows him in, and leaps into his arms on command.\nDr. Kelso: [laughing and hugging the dog] What a boy!\nKelso returns his dog to the floor, where he obediently stands at his master's side.",
+    "text": "Lawyer: Sir, about Nurse Espinosa and Dr. Reid's suspensions, really there aren't any grounds to punish them for moonlighting, because they weren't working with people -- just animals.\nDr. Kelso: \"Just animals\"? Oh, please, this dog is smarter than most people. He's definitely smarter than _you_.\nLawyer: Sir, I don't think--\nDr. Kelso: Baxter, sit!\nThe dog sits.\nDr. Kelso: Ted, sit!\nTed falls to his chair.\nCarla: Ted, you don't have to!\nLawyer: Shut up! I can win this!\nDr. Kelso: Baxter, speak!\nBaxter barks.\nDr. Kelso: Ted, speak!\nLawyer: Hellooooooooo!\nDr. Kelso: Baxter, left foot!\nThe dog raises its left paw.\nDr. Kelso: Ted, left hand!\nTed reflexively raises his right hand.\nElliot: Left hand, Ted.\nLawyer: Hellooooooooooo!\nDr. Kelso: Baxter wins! He gets the desk. Baxter, go up!\nThe dog jumps into Ted's chair.\nADMISSIONS -- FRONT DESK",
+    "true_funny": 5,
+    "true_sad": 1,
+    "predicted_funny": 5,
+    "predicted_sad": 2
+  }
+]

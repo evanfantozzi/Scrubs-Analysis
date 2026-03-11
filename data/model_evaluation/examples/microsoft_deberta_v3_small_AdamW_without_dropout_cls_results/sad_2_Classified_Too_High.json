@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_44",
+    "position": 0.8431,
+    "prev_scene_text": "Kelso: (Stops, sighs, realizes he can't just leave her like this and holds up the nasal speculum) I used one of these on my wife once. She's a terrible snorer. Used to keep me up all night. I made her have the surgery. 'Course, that only made things worse. Here's the twist. Now, whenever she goes out of town, I can't fall asleep without the sound of that gasping, wheezing woman lying right next to me. Trust me. If I ever met a Japan Air stewardess who snores like Enid, I'd marry her tomorrow. (Carla laughs at this) But here's the point. You might find out that thing you hate so much is the very same thing you miss when it's gone. (Turns to leave, to Let Carla contemplate the wisdom of his advice)\nCarla: (Calls out) Thank you, sir.\nKelso pauses, nods, and continues out.",
+    "text": "Plastic surgery. Turk is still in the patient gown sitting on the table. The plastic surgeon and his assistant are prepping Turk for the operation.\nTurk: (To plastic surgeon) All right, I'm gonna get right down to it. You tell Carla that my mole is inoperable, I will pay you ten thousand dollars.\nCarla quickly enters.\nCarla: Turk! I don't want you to do this!\nPlastic Surgeon: (To Carla, quickly) The mole's inoperable.\nTurk: (To plastic surgeon, just as quickly) The deal's off. (Rips off the Velcro strap the plastic surgeon's assistant was using to get his blood pressure) Ow!\nElliot rushes in, not seeing Carla in her hurry.\nElliot: (To Turk) I couldn't find her. (She then sees Carla on the other side of the plastic surgeon)\nTurk: (To Elliot) Don't sweat it.\nTurk and Carla leave arm in arm.\nTurk: (Calling out as he leaves) See ya!",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 3
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_33",
+    "position": 0.9143,
+    "prev_scene_text": "Dr. Kelso: [into phone] Darling, I wanna say something. For the past 25 years, we've been going through the motions -- once every couple of weeks we have sex, and then we have breakfast without saying a word. Well, tonight, I want you to put on a nice dress, because I'm gonna take you to dinner and I'm gonna start telling you all the things I haven't taken the time to say all these years. ... I love you, too.\nHe hangs up.\nLawyer: That was...beautiful, sir!\nDr. Kelso: Thanks, Ted. Call my wife, tell her I won't be home tonight.\nHe gets up from his desk and leaves.\nHOSPITAL -- EXTERIOR, EVENING\nDr. Cox exits the hospital, ready to go home.\nDan, who'd been waiting just outside the door, catches up with him.\nDan: Hey, Dr. Cox.",
+    "text": "Dr. Cox: Oh, here I'd been told you left. It made me happy.\nDan: Yeah, you don't like me. People don't like me. You know why? I'm a [does air quotes] screw-up; [more air quotes] always have been. [chuckles] For instance, when we were kids, Mom would always make me walk Johnny to school first day every year. Every year, I'd walk him to the wrong school! [laughing] Just 'cause!\nDr. Cox: Boy, that's a great story, really. And I'm sure you were just a horrible big brother--\nDan: Well...\nDr. Cox: --but I'm afraid you have me confused with somebody who gives a crap. And it's okay, you don't need to be embarrassed, turns out it happens all the time. For instance, my father actually made the same mistake on his death bed.",
+    "true_funny": 1,
+    "true_sad": 2,
+    "predicted_funny": 1,
+    "predicted_sad": 3
+  }
+]

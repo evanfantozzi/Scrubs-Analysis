@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "1_01",
+    "scene_id": "1_01_34",
+    "position": 0.6735,
+    "prev_scene_text": "A boy, Billy, who looks to be about 8, sits on the table as Dr. Cox bends down to him, a tongue depressor in hand\nDr. Cox: Give me a big \"ah\".\nBilly: Ah.\nDr. Cox: A big boy \"ah\".\nBilly: Ahhh!\nJ.D. Enters, standing at the doorway\nJ.D.: [to Dr. Cox] Turk practically had sex in the on-call room.\nDr. Cox: You realize, of course, I have no idea who Turk is.\nHe removes the depressor from the boy's mouth, breaks it in half, then tosses it toward the trash can in the corner of the room.\nDr. Cox: ...But, good for him. [leaning down to look Billy in the eye] You see, Billy, it turns out that sex is life-affirming.\nBilly looks a bit confused. Dr. Cox grabs a small plastic cup and holds it up in front of him.",
+    "text": "Dr. Cox: Now, whatta ya say, champ; you got a urine sample in there for me?\nBilly: But I just did, five minutes ago.\nDr. Cox: I know you did, but here's the thing: I'd like you to take this cup, put it on the ground, close your eyes, and just go nuts! [holding up his hand] Whatta ya say!\nBilly: [giving Dr. Cox five] Cool!\nDr. Cox: Atta boy! Go get 'em, champ!\nBilly grabs the cup and runs into a small bathroom. Dr. Cox hops up onto the exam table and lays back as J.D. comes further into the room.\nDr. Cox: Why are you here?\nJ.D.: Seems like a good kid.\nDr. Cox: You're worried about being on-call tonight, aren't you.\nJ.D. shrugs\nJ.D.'s Thoughts: Yeah.",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 0,
+    "predicted_sad": 0
+  },
+  {
+    "episode_id": "2_18",
+    "scene_id": "2_18_25",
+    "position": 0.7059,
+    "prev_scene_text": "J.D. and Dr. Cox are at the bed of a lady.  Her young son (4-5 years old) sits on her lap.\nDr. Cox:  Okay, Mrs. Brady, we're gonna try to break up your kidney stone with Lithotripsy.  In the meantime, we're gonna put you on Percocet for the pain.\nMrs. Brady:  I can't take pain-killers -- Justin's still breast-feeding.\nThe little boy gives a thumb's up to Dr. Cox and clicks his teeth.\nDr. Cox:  Ohh, you like milk, do ya?  Hah.  Why don't you get on your bike and go down to the store and get some.\nJ.D.'s Narration:  I think at a certain point, breast-feeding becomes creepy.\n***Fantasy Sequence:  Mrs. Brady is obviously breast-feeding her child.\nMrs. Brady:  You are such a little cutie.\nThe kid, about 14 or 15, pokes his head up, a milk mustache on his lip.\nJustin:  [impatient] Mom, I'm trying to eat, here.",
+    "text": "Mrs. Brady:  But---\nJustin:  Mom!\n****\nDr. Cox:  Benji, come.\nJ.D. follows Dr. Cox as they exit the room out into the hallway.\nDr. Cox:  What is with these mothers doting on their children?  My God!  It's like...it's like nobody else even exists in the world anymore!  But I tell you one thing -- and you damn sure take it to the bank -- my mother never paid that much attention to me.\nJ.D.:  It doesn't show.\nDr. Cox stops and faces him.",
+    "true_funny": 1,
+    "true_sad": 2,
+    "predicted_funny": 0,
+    "predicted_sad": 0
+  }
+]

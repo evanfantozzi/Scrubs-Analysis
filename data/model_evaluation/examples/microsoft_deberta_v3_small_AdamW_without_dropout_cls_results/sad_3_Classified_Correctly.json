@@ -1,0 +1,13 @@
+[
+  {
+    "episode_id": "5_08",
+    "scene_id": "5_08_8",
+    "position": 0.2333,
+    "prev_scene_text": "Doug: Ted, give me a hand. He's not gonna fit in the body bag like this so, uh, lie across his feet and I'm gonna push down his head and straighten him out.\nTed: Fun.\nDoug: One, two, three!\n(On three, Doug pushes the head down, which launches Ted into the air, against the window, knocking him out.\nTed: Waaahh! Ooof!\nDoug: Ted?\n(Cut to Nurses' Station. J.D. enters with Mr. Foster. Elliot, Carla and Turk are occupied with other things.)\nJ.D.'s Narration: Still, the weirdest thing is when a really cool guy who's fine and talking to you one minute...\n(Mr. Foster fades out.)\nJ.D.: ...is dead the next. Of course, in hospitals this happens a lot, so you have to shake it off and move on. Except when this happens.\n(Dr. Cox enters.)",
+    "text": "Dr. Cox: Well! If it isn't the four horsewomen of the apocalypse. There's a Morbidity and Mortality conference tomorrow morning to figure out who is responsible for Mr. Foster's death and here's the exciting news. I'm pretty sure it was one of you.\n(An uncomfortable silence is followed by Turk's cellphone ringtone of Beethoven's Fifth.)\nJ.D.: You really gotta change that cellphone ring.\n(Turk answers the phone.)\nTurk: Mom, not now.\n(Turk hangs up.)\nOPENING THEME\nOpen: Auditorium full of doctors. Turk, Elliot, Carla and J.D. sit before a panel of senior staffers including Dr. Kelso, Dr. Cox and Ted.\nJ.D.'s Narration: So, a patient was dead and one of us was going to be blamed.\n(Turk's cell phone rings again.)\nJ.D.: Dude, you've got to change that cell phone ring.\nTurk: You think so, huh?\n[on phone]\nMom, not now.",
+    "true_funny": 2,
+    "true_sad": 3,
+    "predicted_funny": 2,
+    "predicted_sad": 3
+  }
+]

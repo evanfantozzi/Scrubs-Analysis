@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_32",
+    "position": 0.6078,
+    "prev_scene_text": "Cox: I got it. I got it. (Takes watch from the scruffy guy's hand and fishes into his pocket for some money) All the best. (Slaps money in the scruffy guy's hand)\nScruffy: Thanks, man. (Cox gets up and walks over to Carla)\nCox: (To Carla) I tell you what. Nothing says good morning like a drunken human alarm clock. (Yawns. He looks pretty awful. Carla explains why)\nCarla: Hey. You've been here for sixty straight hours. You need to go home.\nCox: You know what I need. I need people to stop telling me what I should do.\nCarla: Fine. (Leaves)\nBen comes over to stand where Carla was.\nBen: You know what you should do?\nCox: Aw. Why are you here?\nJ.D. comes up to Cox and Ben.\nJ.D.: (To Cox) Dr. Cox. Can I talk to you for a second?",
+    "text": "Cox: (To JD) Hey, hey, Val. You know, you know what's funny? (Holding up some charts. Sarcastically) Ever since I started taking care of your patients, not one of them has died. (Forced bitter laughter)\nJ.D.: Look. You want to be mad at me, that's fine. I get it. Okay. But Jordan called. And she wants to make sure you show this afternoon.\nBen: Oh. Right. That thing. Put us down for Ben plus one. (Points to himself)\nCox: I'm not going anywhere. So beat it.\nJ.D. leaves.\nSurgery ward. Turk is in a patient's gown, sitting on the table. Elliot and J.D. are there.\nTurk: You guys, I don't want to do this.\nElliot: Come on. No one's going to call you names.\nTurk: (Protesting) I know, but...\nJD: (Interrupts) FACE! (Elliot can't help but crack up a little) Butt-face. (Laughs)",
+    "true_funny": 1,
+    "true_sad": 2,
+    "predicted_funny": 2,
+    "predicted_sad": 3
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_33",
+    "position": 0.9143,
+    "prev_scene_text": "Dr. Kelso: [into phone] Darling, I wanna say something. For the past 25 years, we've been going through the motions -- once every couple of weeks we have sex, and then we have breakfast without saying a word. Well, tonight, I want you to put on a nice dress, because I'm gonna take you to dinner and I'm gonna start telling you all the things I haven't taken the time to say all these years. ... I love you, too.\nHe hangs up.\nLawyer: That was...beautiful, sir!\nDr. Kelso: Thanks, Ted. Call my wife, tell her I won't be home tonight.\nHe gets up from his desk and leaves.\nHOSPITAL -- EXTERIOR, EVENING\nDr. Cox exits the hospital, ready to go home.\nDan, who'd been waiting just outside the door, catches up with him.\nDan: Hey, Dr. Cox.",
+    "text": "Dr. Cox: Oh, here I'd been told you left. It made me happy.\nDan: Yeah, you don't like me. People don't like me. You know why? I'm a [does air quotes] screw-up; [more air quotes] always have been. [chuckles] For instance, when we were kids, Mom would always make me walk Johnny to school first day every year. Every year, I'd walk him to the wrong school! [laughing] Just 'cause!\nDr. Cox: Boy, that's a great story, really. And I'm sure you were just a horrible big brother--\nDan: Well...\nDr. Cox: --but I'm afraid you have me confused with somebody who gives a crap. And it's okay, you don't need to be embarrassed, turns out it happens all the time. For instance, my father actually made the same mistake on his death bed.",
+    "true_funny": 1,
+    "true_sad": 2,
+    "predicted_funny": 1,
+    "predicted_sad": 3
+  }
+]

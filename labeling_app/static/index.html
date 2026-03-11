@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Label scenes</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f8f6f3;
+      --surface: #fff;
+      --border: #e8e4dc;
+      --text: #2d2a26;
+      --text-muted: #6b6560;
+      --accent: #2e9d7a;
+      --accent-hover: #268f6a;
+      --accent-soft: #e6f5ef;
+      --warm: #e8b86d;
+      --warm-soft: #fdf6eb;
+      --danger: #c75c5c;
+      --focus: #2e9d7a;
+      --shadow: 0 2px 12px rgba(45, 42, 38, 0.06);
+      --radius: 14px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Nunito', sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 1.5rem 2rem;
+    }
+    h1 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: var(--text);
+    }
+    .transcript-row {
+      display: flex;
+      align-items: stretch;
+      gap: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+    .nav-arrow {
+      flex-shrink: 0;
+      width: 3.5rem;
+      min-height: 8rem;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+      color: var(--text-muted);
+      font-size: 2rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+      box-shadow: var(--shadow);
+    }
+    .nav-arrow:hover {
+      background: var(--accent-soft);
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+    .nav-arrow:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+    .nav-arrow:disabled:hover {
+      background: var(--surface);
+      color: var(--text-muted);
+      border-color: var(--border);
+    }
+    .transcript {
+      flex: 1;
+      min-width: 0;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem 1.75rem;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      box-shadow: var(--shadow);
+    }
+    .transcript-line {
+      display: block;
+    }
+    .inline-confirm {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin: 0.25rem 0 0.5rem;
+      padding: 0.5rem 0.75rem;
+      background: var(--accent-soft);
+      border: 1px solid var(--accent);
+      border-radius: 8px;
+      font-size: 0.9rem;
+      color: var(--text);
+    }
+    .inline-confirm .inline-confirm-text { flex: 1; min-width: 120px; }
+    .inline-confirm .inline-confirm-btns {
+      display: flex;
+      gap: 0.5rem;
+    }
+    .inline-confirm .inline-confirm-btns button {
+      min-height: 2.5rem;
+      min-width: 2.75rem;
+      padding: 0.4rem 0.75rem;
+      font-family: inherit;
+      font-size: 0.9rem;
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      transition: background 0.15s, border-color 0.15s;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .inline-confirm .inline-confirm-btns button:hover {
+      background: var(--bg);
+      border-color: var(--text-muted);
+    }
+    .inline-confirm .inline-confirm-btns button.inline-confirm-do {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .inline-confirm .inline-confirm-btns button.inline-confirm-do:hover {
+      background: var(--accent-hover);
+    }
+    .inline-error {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 1rem;
+      padding: 0.5rem 0.75rem;
+      background: #fef2f2;
+      border: 1px solid var(--danger);
+      border-radius: 8px;
+      font-size: 0.9rem;
+      color: var(--text);
+    }
+    .inline-error .inline-error-text { flex: 1; min-width: 0; }
+    .inline-error button {
+      min-height: 2.5rem;
+      min-width: 2.75rem;
+      padding: 0.4rem 0.75rem;
+      font-family: inherit;
+      font-size: 0.9rem;
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      -webkit-tap-highlight-color: transparent;
+    }
+    .transcript i {
+      color: var(--accent);
+      font-style: italic;
+    }
+    .label-status {
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+      padding: 0.6rem 0.9rem;
+      border-radius: 10px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+    }
+    .label-status.unlabeled { color: var(--text-muted); }
+    .label-status.labeled { color: #2563eb; font-weight: 600; }
+    .scales {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+    .scale-group label {
+      display: block;
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: var(--text-muted);
+    }
+    .scale-buttons {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+    .scale-buttons button {
+      width: 2.6rem;
+      height: 2.6rem;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 1rem;
+      font-weight: 600;
+      transition: background 0.15s, border-color 0.15s, transform 0.1s;
+      box-shadow: 0 1px 4px rgba(45,42,38,0.04);
+    }
+    .scale-buttons button:hover {
+      background: var(--accent-soft);
+      border-color: var(--accent);
+    }
+    .scale-buttons button.selected {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .scale-cell {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.2rem;
+    }
+    .scale-cell .scale-hint {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+    }
+    .progress {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 1rem;
+    }
+    .menu {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-bottom: 1.25rem;
+      padding: 1rem 1.25rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+    .menu label {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+    .menu select {
+      padding: 0.5rem 0.75rem;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.95rem;
+      min-width: 10rem;
+    }
+    .menu select:focus {
+      outline: none;
+      border-color: var(--accent);
+    }
+    .loading { color: var(--text-muted); }
+    .error { color: var(--danger); margin: 1rem 0; }
+  </style>
+</head>
+<body>
+  <div class="container" style="padding-top: 1rem;">
+    <h1 style="margin-top: 0;">Label scenes</h1>
+    <div class="menu">
+      <label for="seasonSelect">Season</label>
+      <select id="seasonSelect">
+        <option value="">—</option>
+      </select>
+      <label for="episodeSelect">Episode</label>
+      <select id="episodeSelect">
+        <option value="">—</option>
+      </select>
+    </div>
+    <p class="progress"><span id="progress">—</span></p>
+    <div id="inlineError" class="inline-error" style="display: none;" role="alert">
+      <span class="inline-error-text"></span>
+      <button type="button" id="inlineErrorDismiss">Dismiss</button>
+    </div>
+    <div class="label-status unlabeled" id="labelStatus">No rating for this scene</div>
+    <div class="transcript-row">
+      <button type="button" class="nav-arrow nav-arrow-left" id="btnBack" aria-label="Previous scene">←</button>
+      <div class="transcript" id="transcript">Loading…</div>
+      <button type="button" class="nav-arrow nav-arrow-right" id="btnForward" aria-label="Next scene">→</button>
+    </div>
+    <div class="scales">
+      <div class="scale-group">
+        <label id="scaleLabelFunny" style="display: none;">Funny (1–5)</label>
+        <div class="scale-buttons" id="funnyScale"></div>
+      </div>
+      <div class="scale-group">
+        <label id="scaleLabelSad" style="display: none;">Sad / emotional (1–5)</label>
+        <div class="scale-buttons" id="sadScale"></div>
+      </div>
+    </div>
+  </div>
+  <script>
+    const API = '';
+    let structure = { seasons: [], by_season: {} };
+    let sceneIds = [];
+    let currentIndex = 0;
+    let funny = 0, sad = 0;
+    let currentScene = null;
+
+    function el(id) { return document.getElementById(id); }
+
+    function showInlineError(message) {
+      const box = el('inlineError');
+      if (!box) return;
+      box.querySelector('.inline-error-text').textContent = message;
+      box.style.display = 'flex';
+    }
+
+    function setStructure(data) {
+      structure = { seasons: data.seasons || [], by_season: data.by_season || {} };
+    }
+
+    function getCurrentEpisode() {
+      const season = parseInt(el('seasonSelect').value, 10);
+      const epVal = el('episodeSelect').value;
+      if (!season || epVal === '') return null;
+      const epNum = parseInt(epVal, 10);
+      const eps = structure.by_season[season] || [];
+      const ep = eps.find(e => e.episode === epNum);
+      return ep || null;
+    }
+
+    function escapeHtml(s) {
+      const div = document.createElement('div');
+      div.textContent = s;
+      return div.innerHTML;
+    }
+
+    /** Split text into sentence lines (break after . ? !). Returns array of lines. */
+    function getSentenceLines(text) {
+      if (!text || !text.trim()) return [];
+      const segments = text.split(/\n/).map(s => s.trim()).filter(Boolean);
+      const sentenceEnd = /[.?!]["']?\s*$/;
+      const lines = [];
+      let current = [];
+      for (const seg of segments) {
+        current.push(seg);
+        if (sentenceEnd.test(seg)) {
+          lines.push(current.join(' '));
+          current = [];
+        }
+      }
+      if (current.length) lines.push(current.join(' '));
+      return lines;
+    }
+
+    function transcriptToHtmlWithLineSpans(text, narration) {
+      if (!text) return '';
+      const lines = getSentenceLines(text);
+      const list = (narration || []).slice().sort((a, b) => b.length - a.length);
+      const out = [];
+      for (let i = 0; i < lines.length; i++) {
+        let lineHtml = escapeHtml(lines[i]);
+        for (const snippet of list) {
+          if (!snippet) continue;
+          const escaped = escapeHtml(snippet);
+          lineHtml = lineHtml.replace(escaped, '<i>' + escaped + '</i>');
+        }
+        out.push('<span class="transcript-line" data-line-index="' + i + '">' + lineHtml + '</span>');
+      }
+      return out.join('\n');
+    }
+
+    function saveLabel() {
+      if (!sceneIds.length || funny < 1 || funny > 5 || sad < 1 || sad > 5) return;
+      const sceneId = sceneIds[currentIndex];
+      fetch(API + '/api/labels', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ scene_id: sceneId, funny, sad })
+      }).catch(e => console.warn('Save label failed:', e));
+    }
+
+    function renderScales() {
+      const showScaleLabels = sceneIds.length > 0;
+      el('scaleLabelFunny').style.display = showScaleLabels ? '' : 'none';
+      el('scaleLabelSad').style.display = showScaleLabels ? '' : 'none';
+      ['funny', 'sad'].forEach(name => {
+        const div = el(name + 'Scale');
+        div.innerHTML = '';
+        for (let i = 1; i <= 5; i++) {
+          const btn = document.createElement('button');
+          btn.textContent = i;
+          btn.type = 'button';
+          const val = name === 'funny' ? funny : sad;
+          if (val === i) btn.classList.add('selected');
+          btn.addEventListener('click', () => {
+            if (name === 'funny') funny = i; else sad = i;
+            renderScales();
+            saveLabel();
+            if (el('labelStatus')) {
+              el('labelStatus').textContent = `Funny ${funny}, Sad ${sad}`;
+              el('labelStatus').className = 'label-status labeled';
+            }
+          });
+          const showHints = sceneIds.length > 0;
+          if (i === 1 && showHints) {
+            const cell = document.createElement('div');
+            cell.className = 'scale-cell';
+            const hint = document.createElement('span');
+            hint.className = 'scale-hint';
+            hint.textContent = 'Not';
+            cell.appendChild(btn);
+            cell.appendChild(hint);
+            div.appendChild(cell);
+          } else if (i === 5 && showHints) {
+            const cell = document.createElement('div');
+            cell.className = 'scale-cell';
+            const hint = document.createElement('span');
+            hint.className = 'scale-hint';
+            hint.textContent = 'Very';
+            cell.appendChild(btn);
+            cell.appendChild(hint);
+            div.appendChild(cell);
+          } else {
+            div.appendChild(btn);
+          }
+        }
+      });
+    }
+
+    function setProgress() {
+      if (!sceneIds.length) {
+        el('progress').textContent = 'No scenes loaded';
+        if (el('btnBack')) el('btnBack').disabled = true;
+        if (el('btnForward')) el('btnForward').disabled = true;
+        return;
+      }
+      el('progress').textContent = `Scene ${currentIndex + 1} of ${sceneIds.length} in this episode`;
+      el('btnBack').disabled = currentIndex <= 0;
+      el('btnForward').disabled = currentIndex >= sceneIds.length - 1;
+    }
+
+    function fillSeasonSelect() {
+      const sel = el('seasonSelect');
+      sel.innerHTML = '<option value="">—</option>';
+      structure.seasons.forEach(s => {
+        const opt = document.createElement('option');
+        opt.value = s;
+        opt.textContent = 'Season ' + s;
+        sel.appendChild(opt);
+      });
+    }
+
+    function fillEpisodeSelect(season) {
+      const sel = el('episodeSelect');
+      sel.innerHTML = '<option value="">—</option>';
+      const eps = structure.by_season[season] || [];
+      eps.forEach(ep => {
+        const opt = document.createElement('option');
+        opt.value = ep.episode;
+        opt.textContent = `Ep ${ep.episode}: ${ep.title}`;
+        sel.appendChild(opt);
+      });
+    }
+
+    function onSeasonChange() {
+      const season = el('seasonSelect').value;
+      el('episodeSelect').innerHTML = '<option value="">—</option>';
+      if (!season) return;
+      fillEpisodeSelect(parseInt(season, 10));
+      sceneIds = [];
+      currentIndex = 0;
+      el('transcript').innerHTML = 'Select an episode.';
+      setProgress();
+      renderScales();
+    }
+
+    function onEpisodeChange() {
+      const ep = getCurrentEpisode();
+      if (!ep) return;
+      sceneIds = ep.scene_ids;
+      currentIndex = 0;
+      showCurrent();
+    }
+
+    async function loadLabel(sceneId) {
+      try {
+        const r = await fetch(API + '/api/labels/' + encodeURIComponent(sceneId));
+        const data = await r.json();
+        return data.labeled ? data : null;
+      } catch (e) {
+        console.warn('loadLabel', e);
+        return null;
+      }
+    }
+
+    async function loadScene(sceneId) {
+      const r = await fetch(API + '/api/scenes/' + encodeURIComponent(sceneId));
+      if (!r.ok) throw new Error('Scene not found');
+      return r.json();
+    }
+
+    async function showCurrent() {
+      if (!sceneIds.length) {
+        currentScene = null;
+        el('transcript').innerHTML = 'No scenes in <code>scrape_wiki/transcripts/</code>.';
+        el('labelStatus').textContent = '—';
+        el('labelStatus').className = 'label-status unlabeled';
+        return;
+      }
+      const sceneId = sceneIds[currentIndex];
+      el('transcript').innerHTML = '<span class="loading">Loading…</span>';
+      el('labelStatus').textContent = 'Loading…';
+      el('labelStatus').className = 'label-status unlabeled';
+
+      try {
+        const [scene, label] = await Promise.all([
+          loadScene(sceneId),
+          loadLabel(sceneId)
+        ]);
+        currentScene = scene;
+        const text = scene.text || '';
+        const narration = scene.narration || scene.jd_narration || [];
+        el('transcript').innerHTML = transcriptToHtmlWithLineSpans(text, narration);
+        el('transcript').setAttribute('data-scene-id', sceneId);
+
+        if (label) {
+          funny = label.funny;
+          sad = label.sad;
+          el('labelStatus').textContent = 'Funny ' + funny + ', Sad ' + sad;
+          el('labelStatus').className = 'label-status labeled';
+        } else {
+          funny = 0;
+          sad = 0;
+          el('labelStatus').textContent = 'No rating for this scene';
+          el('labelStatus').className = 'label-status unlabeled';
+        }
+        renderScales();
+      } catch (e) {
+        el('transcript').innerHTML = '<span class="error">Error: ' + escapeHtml(e.message) + '</span>';
+        currentScene = null;
+      }
+      setProgress();
+    }
+
+    function goBack() {
+      if (currentIndex <= 0) return;
+      currentIndex--;
+      showCurrent();
+    }
+
+    function goForward() {
+      if (currentIndex >= sceneIds.length - 1) return;
+      currentIndex++;
+      showCurrent();
+    }
+
+    async function init() {
+      try {
+        const structRes = await fetch(API + '/api/structure', { credentials: 'include' });
+        setStructure(await structRes.json());
+        fillSeasonSelect();
+        if (structure.seasons.length > 0) {
+          el('seasonSelect').value = structure.seasons[0];
+          fillEpisodeSelect(structure.seasons[0]);
+        }
+        el('transcript').innerHTML = 'Choose a season and episode to start.';
+        setProgress();
+      } catch (e) {
+        el('transcript').innerHTML = '<span class="error">Could not load data. Is the server running?</span>';
+      }
+
+      el('seasonSelect').addEventListener('change', onSeasonChange);
+      el('episodeSelect').addEventListener('change', onEpisodeChange);
+      el('btnBack').addEventListener('click', goBack);
+      el('btnForward').addEventListener('click', goForward);
+      el('inlineErrorDismiss').addEventListener('click', () => {
+        el('inlineError').style.display = 'none';
+      });
+    }
+
+    (async function () {
+      try {
+        await init();
+      } catch (e) {
+        el('transcript').innerHTML = '<span class="error">Could not load. Is the server running?</span>';
+      }
+    })();
+  </script>
+</body>
+</html>

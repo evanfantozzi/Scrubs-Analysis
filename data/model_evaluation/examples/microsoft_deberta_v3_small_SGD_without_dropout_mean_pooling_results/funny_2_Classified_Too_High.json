@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_1",
+    "position": 0.0,
+    "prev_scene_text": "",
+    "text": "Scrubs\nepisode\nMy Screw Up\nOpening \u2014 Sacred Heart, Doctors' Lounge: J.D., Turk, and Elliot are sitting. J.D. has Elliot's bare right foot in his hands and is scratching it. Turk looks on, sitting next to J.D. but not participating.\nJ.D. Thoughts: As a doctor, there are certain procedures you just have a gift for.\nElliot: Oh. That feels so good. Right there. Yeah.\nJD finishes and lets go of her right foot.\nJ.D.: Let's have the other foot.\nElliot reacts as though scalded and bolts upright in her chair.\nElliot: NO!\nTurk and J.D. startle at her reaction and then look at her oddly.\nElliot: Um. Um. It's just that there is something wrong with my left foot. You guys would think it's really disgusting.\nTurk and J.D. scoff like they've seen it all and nothing could disgust them.\nTurk: Elliot. I'm a surgeon. I cut people open.",
+    "true_funny": 2,
+    "true_sad": 1,
+    "predicted_funny": 3,
+    "predicted_sad": 1
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_26",
+    "position": 0.7143,
+    "prev_scene_text": "J.D.: Hey, thanks for loaning me this shirt, man. I got a lot of compliments from the sistas. Sharon the security guard even called me a cracka!\nTurk: Dude, how many time I gotta tell you? Cracker -- bad!\nBesides, why aren't you at home, apologizing to your brother before he takes off?\nJ.D.: Turk, you don't get it, man. Your family was there for you.",
+    "text": "Turk: You know, I love how kids of divorce really have the market cornered on family dysfunction. But let me share with you a typical Thanksgiving at the Turk household: It starts with my mother yelling at my sister for yelling at my grandmother who's yelling at the television screen, which happens to be the microwave. And then my militant brother Jabari -- formerly Bob -- gives my father attitude for using the word \"black\", even though he's referring to the turkey. Which, by the way, only got burnt because instead of turning the oven off, my bi-polar aunt Leslie tried to shove her head in it.\nBut you know what we do? We kiss...and we hug...and we apologize for all the things we said.... 'Cause a month later, we gonna get together and do it again at Christmas!\nJ.D. considers this.\nTurk: Now check the ball, cracka!",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 3,
+    "predicted_sad": 1
+  }
+]

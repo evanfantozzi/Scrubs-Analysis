@@ -1,0 +1,17 @@
+altair
+beautifulsoup4
+datasets
+duckdb
+flask
+google-genai
+ipykernel
+numpy
+pandas
+python-dotenv
+requests
+scikit-learn
+sentencepiece
+statsmodels
+torch
+transformers>=4.40.0,<4.47.0
+vl-convert-python

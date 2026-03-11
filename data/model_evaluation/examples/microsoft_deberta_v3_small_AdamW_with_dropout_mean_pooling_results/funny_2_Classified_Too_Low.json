@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_37",
+    "position": 0.7059,
+    "prev_scene_text": "Kelso: Well, Nurse \"Snickers,\" until now, you've just been white noise. But since you forced me to respond, let me tell you a couple of things that only a few people know. (Leans in conspiratorially, lowers voice) I haven't paid my country club dues since the third quarter of '97. But I still tee off every Wednesday at 8:15 and take a bare-ass steam when the last putt drops. But more importantly, I really don't care about any of you or your problems. And you can confirm that with Ted. (Irritated, he gets up and leaves)\nTed: (To Carla) Don't those Espinosas have nougat?\nHallway near Nurses' Station. Cox and Ben are just exiting the elevator.\nBen: Can we go now?\nCox: No.\nBen: How about now?\nCox: No. Look, as a rule of thumb, I don't attend parties where the guest of honor has no idea what's going on.",
+    "text": "Ben: That's not true. Remember back when you and Jordan first got married, and we went to go see senile old Grandpa Horty (?) for his 95th birthday party? Remember he kept trying to get the coat-check girl thrown out because she was loyal to the Kaiser? (Cox and Ben can't help but laugh at the memory)\nCox: Benny, I appreciate your concern, but you just don't understand.\nBen: What don't I understand?\nCox: Well, do you see all these people here? This is not some kind of senior citizens slumber party. I mean, if it was, I would have already put Mr. Fordham's hand in a nice bowl of warm water. But God bless him, he's going to go ahead and wet the bed anyway. My, my point is, is that if I'm not here, people die.",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 1,
+    "predicted_sad": 1
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_31",
+    "position": 0.8571,
+    "prev_scene_text": "But, honestly, you're my brother; you can crash at my place as long as you like.\nDan: That's okay. I'll see you back home at Christmas.\nThey share an awkward hug then, without another word, split and go their own ways.\nDR. KELSO'S OFFICE\nKelso is doing some paperwork as Elliot, Carla, and Ted come in.\nDr. Kelso: [not looking up] Why are you here.\nElliot: My boyfriend is in New Zealand for six months, and if I don't moonlight, then I'm never gonna have enough money to see him.\nCarla: My wedding's costing twice as much as I thought it would, and I need the extra cash.\nLawyer: Baxter won't get out of my chair.\nDr. Kelso gives them his attention.",
+    "text": "Carla: Dr. Kelso, even though we're understaffed and underpaid, I've been working here for ten years! I mean, all day long? All I hear is \"Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla, Carla...Carla...Carla.\"\nElliot: Sir, what--wh--what Carla is saying, and not in any kind of crazy or, uh, rambling sort of way, is that we work hard here at the hospital, but it's not the only thing in our lives.\nCarla: Surely you must know what it's like to love someone so much that you'd do anything you had to.\nDr. Kelso: I'll see you two in the morning. Now get out of my office before I change my mind.\nCarla and Elliot happily leave, and Ted is about to follow until he sees Kelso pick up the phone.",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 1,
+    "predicted_sad": 1
+  }
+]

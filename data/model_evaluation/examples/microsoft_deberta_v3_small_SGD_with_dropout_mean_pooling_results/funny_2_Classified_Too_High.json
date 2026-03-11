@@ -1,0 +1,13 @@
+[
+  {
+    "episode_id": "3_14",
+    "scene_id": "3_14_1",
+    "position": 0.0,
+    "prev_scene_text": "",
+    "text": "Scrubs\nepisode\nMy Screw Up\nOpening \u2014 Sacred Heart, Doctors' Lounge: J.D., Turk, and Elliot are sitting. J.D. has Elliot's bare right foot in his hands and is scratching it. Turk looks on, sitting next to J.D. but not participating.\nJ.D. Thoughts: As a doctor, there are certain procedures you just have a gift for.\nElliot: Oh. That feels so good. Right there. Yeah.\nJD finishes and lets go of her right foot.\nJ.D.: Let's have the other foot.\nElliot reacts as though scalded and bolts upright in her chair.\nElliot: NO!\nTurk and J.D. startle at her reaction and then look at her oddly.\nElliot: Um. Um. It's just that there is something wrong with my left foot. You guys would think it's really disgusting.\nTurk and J.D. scoff like they've seen it all and nothing could disgust them.\nTurk: Elliot. I'm a surgeon. I cut people open.",
+    "true_funny": 2,
+    "true_sad": 1,
+    "predicted_funny": 4,
+    "predicted_sad": 1
+  }
+]

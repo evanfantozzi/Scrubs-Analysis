@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "5_08",
+    "scene_id": "5_08_2",
+    "position": 0.0333,
+    "prev_scene_text": "Scrubs\nepisode\nMy Big Bird\nOpen: Convenience store parking lot. J.D. enters on his scooter.\nJ.D.'s Narration: I was super-psyched to get my scooter, Sasha, back from the shop, but my new scooter insurance hadn't kicked in yet, so I was being extra-cautious.\n(J.D. parks the scooter, removes his helmet and places orange cones all around the scooter. Sirens in the background grow louder.)\nJ.D.: Perfect. Time for my morning slushie.\n(Three police cruisers enter the parking lot and surround J.D. Police exit the vehicles and take defensive positions, poised for a shootout. One officer pulls J.D. out of the line of fire.)\nOfficer: Get out of the way! The store's being robbed!\n(A robber comes out of the store and draws a gun.)\nOfficer: Freeze!\n(The robber looks to his left and notices a low brick wall, and to his right, J.D.'s scooter.)",
+    "text": "J.D.: The wall! Hide behind the wall!\n(The robber dives behind the scooter as police officers spray the scooter with gunfire.)\nJ.D.: NO! Sasha!\n(The robber emerges from behind the scooter, drops the gun and holds his hands up in surrender.)\nRobber: All right! All right! OK.\nJ.D.: There was a wall! What's the matter with you?\n(Two more gunshots are fired, puncturing the scooters tires.)\nJ.D.: Who is still shooting? She's down!\n(One final gunshot is fired at the scooter.)\nJ.D.: It's over!\n(Cut to MRI room. Turk and J.D. are loading a patient into the machine.)\nPatient: Is this gonna hurt?\nJ.D.: Oh, don't be such a baby, it's a magnetic image. I apologize, Mr. Foster, I'm a little upset. My scooter, Sasha was assassinated this morning.\nTurk: Yeah, he was so attached to that thing. He used to wear a bracelet that said \"Sasha Forever.\"",
+    "true_funny": 5,
+    "true_sad": 2,
+    "predicted_funny": 5,
+    "predicted_sad": 1
+  },
+  {
+    "episode_id": "3_05",
+    "scene_id": "3_05_28",
+    "position": 0.7714,
+    "prev_scene_text": "He throws the ball at J.D., who absent-mindedly tosses it through the basket from way down court. Must be the outfit.\nJ.D.: One-nothing.\nLEGAL COUNSEL OFFICE\nElliot and Carla wait as Ted returns his wig to its foam wig-stand.\nLawyer: You're home now.\nHe walks behind his desk.\nCarla: Okay, I paged Dr. Kelso.\nDo you feel confident about this, Ted?\nLawyer: I'm not sure. I don't know what confidence feels like.\nKelso enters.\nDr. Kelso: Good afternoon, suspendees, Ted.\nGuess who's back from the vet! One, two, three!\nDr. Kelso's dog follows him in, and leaps into his arms on command.\nDr. Kelso: [laughing and hugging the dog] What a boy!\nKelso returns his dog to the floor, where he obediently stands at his master's side.",
+    "text": "Lawyer: Sir, about Nurse Espinosa and Dr. Reid's suspensions, really there aren't any grounds to punish them for moonlighting, because they weren't working with people -- just animals.\nDr. Kelso: \"Just animals\"? Oh, please, this dog is smarter than most people. He's definitely smarter than _you_.\nLawyer: Sir, I don't think--\nDr. Kelso: Baxter, sit!\nThe dog sits.\nDr. Kelso: Ted, sit!\nTed falls to his chair.\nCarla: Ted, you don't have to!\nLawyer: Shut up! I can win this!\nDr. Kelso: Baxter, speak!\nBaxter barks.\nDr. Kelso: Ted, speak!\nLawyer: Hellooooooooo!\nDr. Kelso: Baxter, left foot!\nThe dog raises its left paw.\nDr. Kelso: Ted, left hand!\nTed reflexively raises his right hand.\nElliot: Left hand, Ted.\nLawyer: Hellooooooooooo!\nDr. Kelso: Baxter wins! He gets the desk. Baxter, go up!\nThe dog jumps into Ted's chair.\nADMISSIONS -- FRONT DESK",
+    "true_funny": 5,
+    "true_sad": 1,
+    "predicted_funny": 5,
+    "predicted_sad": 3
+  }
+]

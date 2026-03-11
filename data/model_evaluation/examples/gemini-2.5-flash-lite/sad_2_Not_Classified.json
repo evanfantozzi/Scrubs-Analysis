@@ -1,0 +1,24 @@
+[
+  {
+    "episode_id": "1_01",
+    "scene_id": "1_01_34",
+    "position": 0.6735,
+    "prev_scene_text": "A boy, Billy, who looks to be about 8, sits on the table as Dr. Cox bends down to him, a tongue depressor in hand\nDr. Cox: Give me a big \"ah\".\nBilly: Ah.\nDr. Cox: A big boy \"ah\".\nBilly: Ahhh!\nJ.D. Enters, standing at the doorway\nJ.D.: [to Dr. Cox] Turk practically had sex in the on-call room.\nDr. Cox: You realize, of course, I have no idea who Turk is.\nHe removes the depressor from the boy's mouth, breaks it in half, then tosses it toward the trash can in the corner of the room.\nDr. Cox: ...But, good for him. [leaning down to look Billy in the eye] You see, Billy, it turns out that sex is life-affirming.\nBilly looks a bit confused. Dr. Cox grabs a small plastic cup and holds it up in front of him.",
+    "text": "Dr. Cox: Now, whatta ya say, champ; you got a urine sample in there for me?\nBilly: But I just did, five minutes ago.\nDr. Cox: I know you did, but here's the thing: I'd like you to take this cup, put it on the ground, close your eyes, and just go nuts! [holding up his hand] Whatta ya say!\nBilly: [giving Dr. Cox five] Cool!\nDr. Cox: Atta boy! Go get 'em, champ!\nBilly grabs the cup and runs into a small bathroom. Dr. Cox hops up onto the exam table and lays back as J.D. comes further into the room.\nDr. Cox: Why are you here?\nJ.D.: Seems like a good kid.\nDr. Cox: You're worried about being on-call tonight, aren't you.\nJ.D. shrugs\nJ.D.'s Thoughts: Yeah.",
+    "true_funny": 2,
+    "true_sad": 2,
+    "predicted_funny": 0,
+    "predicted_sad": 0
+  },
+  {
+    "episode_id": "6_02",
+    "scene_id": "6_02_1",
+    "position": 0.0,
+    "prev_scene_text": "",
+    "text": "Scrubs\nepisode\nMy Best Friend's Baby's Baby and My Baby's Baby\nSACRED HEART -- ADMISSIONS\nA larger woman is at the desk, with Jack standing in front of her.\nJack: [Pointing and singing] You're a fatty fatty fatty fatty fatty fatty fatty fatty fatty!\nDr. Cox comes over.\nWoman: What's your son doing?\nDr. Cox: Apparently he's doing the \"fatty dance.\" [Picks Jack up.] Inappropriate? Well, maybe. But I'm raising my son to be a straight-shooter. That's his mom, right over there.\nHe points over to Jordan leaning in the doorway.\nJordan: Ohh, thanks for including me.\nThe woman shakes her head.\nCox grins proudly at his kid and carries him off.\nJ.D.'s Narration: Dr. Cox and Jordan weren't the only ones with kid troubles. My brand new girlfriend was pregnant, and we were trying to decide what to do.\nCut to...\nKIM'S APARTMENT",
+    "true_funny": 4,
+    "true_sad": 2,
+    "predicted_funny": 3,
+    "predicted_sad": 0
+  }
+]
