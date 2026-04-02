@@ -1,5 +1,3 @@
-# Final Project Report - Evan Fantozzi
-
 ## Can a model learn how I (and others) feel about the TV show Scrubs?
 
 ![Scrubs](Scrubs_Photo.jpg)
